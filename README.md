@@ -1,2 +1,1 @@
-# Web-Starry-ski
-backup
+(to be hosted on github pages soon...)
